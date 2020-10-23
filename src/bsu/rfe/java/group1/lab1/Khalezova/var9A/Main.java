@@ -48,5 +48,7 @@ public class Main {
                 break;
         }
         System.out.println("Всего хорошего!");
+        System.out.println("Всего хорошего!");
+
     }
 }
